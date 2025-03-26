@@ -172,12 +172,6 @@ async def on_message(message):
 
 
 
-@bot.command()
-@commands.has_permissions(administrator=True)
-async def reset_data(ctx):
-    await ctx.send("Data reset.")
-
-
 
 @bot.command(name='rappelmoi', help="Permet aux utilisateurs de définir des rappels pour des événements futurs.")
 async def rappelmoi(ctx, *, reminder : str = None):
