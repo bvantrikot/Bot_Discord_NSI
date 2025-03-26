@@ -1,5 +1,7 @@
 # BOT NSI - Discord
 
+Lien pour ajouter et tester le bot directement sur votre serveur : https://discord.com/oauth2/authorize?client_id=1163559157157347410&permissions=8797704547392&integration_type=0&scope=bot
+
 Un bot Discord éducatif développé en Python qui parcours les notions du programme NSI (Numérique et Sciences Informatiques) au lycée.  
 Il permet de jouer à des quiz organisés par thème et par niveau (Première / Terminale), avec explication à chaque réponse.
 
